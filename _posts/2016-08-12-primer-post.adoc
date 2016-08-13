@@ -1,5 +1,6 @@
 = primer post
 :hp-tags: HubPress, Blog, Open Source,
+
 == primer titulo
 
 
@@ -15,4 +16,3 @@ Segundo titulo
 salto de linea 2
 
 
-roamarox-playground
