@@ -4,7 +4,15 @@
     "repositoryName": "roamarox.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "roamarox playground",
+    "description": "Mi espacio para escribir resumenes, traducciones de articulos y eventualmente pruebas que realizo sobre tecnologías que me interesan ",
+    "logo": "",
+    "cover": "https://s3.amazonaws.com/dfc-wiki/en/images/1/12/FDC-Database-1.png",
+    "postsPerPage": "5"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
