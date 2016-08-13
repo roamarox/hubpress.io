@@ -10,7 +10,8 @@
     "description": "Mi espacio para escribir resúmenes, traducciones de artículos y eventualmente documentar pruebas que realizo sobre tecnologías que me interesan ",
     "logo": "",
     "cover": "",
-    "postsPerPage": "5"
+    "postsPerPage": "5",
+    "disqus": "roamarox-playground"
   },
   "socialnetwork": {
     "email": "amaro.rodrigo1@gmail.com",
