@@ -1,0 +1,18 @@
+= primer post
+:hp-tags: HubPress, Blog, Open Source,
+
+== primer titulo
+
+
+Primer titulo
+
+Salto de linea
+
+
+=== segundo titulo
+
+Segundo titulo 
+
+salto de linea 2
+
+

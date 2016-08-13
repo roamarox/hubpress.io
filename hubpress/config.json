@@ -2,9 +2,24 @@
   "meta": {
     "username": "roamarox",
     "repositoryName": "roamarox.github.io",
-    "branch": "master"
+    "branch": "master",
+    "delay": "2000"
+  },
+  "site": {
+    "title": "roamarox playground",
+    "description": "Mi block de notas para escribir resúmenes, traducciones de artículos y eventualmente documentar pruebas que realizo sobre tecnologías que me interesan.",
+    "logo": "",
+    "cover": "https://pixabay.com/static/uploads/photo/2015/09/05/23/02/notepad-926046_960_720.jpg",
+    "postsPerPage": "5",
+    "disqus": "roamarox-playground"
+  },
+  "socialnetwork": {
+    "email": "amaro.rodrigo1@gmail.com",
+    "linkedin": "https://uy.linkedin.com/in/roamarox",
+    "facebook": "https://www.facebook.com/roamarox",
+    "github": "https://github.com/roamarox"
   },
   "theme": {
-    "name": "Casper"
+    "name": "ghostium"
   }
 }
