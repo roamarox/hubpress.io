@@ -6,9 +6,9 @@
   },
   "site": {
     "title": "roamarox playground",
-    "description": "Mi espacio para escribir resumenes, traducciones de articulos y eventualmente pruebas que realizo sobre tecnologías que me interesan ",
+    "description": "Mi espacio para escribir resúmenes, traducciones de artículos y eventualmente documentar pruebas que realizo sobre tecnologías que me interesan ",
     "logo": "",
-    "cover": "https://s3.amazonaws.com/dfc-wiki/en/images/1/12/FDC-Database-1.png",
+    "cover": "",
     "postsPerPage": "5"
   },
   "socialnetwork": {
