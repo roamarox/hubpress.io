@@ -9,7 +9,7 @@
     "title": "roamarox playground",
     "description": "Mi block de notas para escribir resúmenes, traducciones de artículos y eventualmente documentar pruebas que realizo sobre tecnologías que me interesan.",
     "logo": "",
-    "cover": "portada.jpg",
+    "cover": "/images/portada.jpg",
     "postsPerPage": "5",
     "disqus": "roamarox-playground"
   },
