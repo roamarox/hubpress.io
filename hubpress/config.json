@@ -11,7 +11,12 @@
     "cover": "https://s3.amazonaws.com/dfc-wiki/en/images/1/12/FDC-Database-1.png",
     "postsPerPage": "5"
   },
-  "socialnetwork": {},
+  "socialnetwork": {
+    "email": "amaro.rodrigo1@gmail.com",
+    "linkedin": "https://uy.linkedin.com/in/roamarox",
+    "facebook": "https://www.facebook.com/roamarox",
+    "github": "https://github.com/roamarox"
+  },
   "theme": {
     "name": "casper"
   }
